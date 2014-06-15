@@ -37,4 +37,4 @@ xmlrpc.php
 /themes
 
 # system
-.DS_Store
+sites/*/.DS_Store
