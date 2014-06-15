@@ -38,4 +38,3 @@ xmlrpc.php
 
 # system
 sites/*/.DS_Store
-*.sql
