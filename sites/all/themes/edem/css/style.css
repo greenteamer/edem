@@ -74,7 +74,7 @@ position: relative;
 
 header#navbar{
 background: none;
-margin-top: 10px;
+margin-top: 0;
 }
 
 #block-block-1{
@@ -862,14 +862,18 @@ ul.secondary {
 ul.secondary li {
 	float: right;
 }
-.navbar-nav.secondary > li > a {
+.navbar-default .navbar-nav.secondary > li > a {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	color: #fff;
+	background: none;
+	font: 600 12px/20px 'Open Sans', sans-serif;
+	text-transform: uppercase;
 }
-.navbar-nav.secondary > li > a:hover {
+.navbar-default .navbar-nav.secondary > li > a:hover {
 	color: #fff;
 	text-decoration: underline;
+	background: none;
 }
 header .region.region-navigation {
 	padding-top: 22px;
