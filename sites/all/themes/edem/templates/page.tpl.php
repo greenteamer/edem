@@ -130,14 +130,17 @@
 
 </div>
  
-<div id="under_slider">
+<div id="main0_container_wrap"> 
+  <div class="container">
+      <?php print render($page['main0']); ?>
+  </div>
+</div>
 
+<div id="under_slider">
   <div class="main-container container">
     <?php print render($page['under_slider']); ?>
   </div>
-
 </div>
-
 
 <div id="main_container_wrap"> 
   <div class="main-container container">
