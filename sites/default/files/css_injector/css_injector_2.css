@@ -1,11 +1,13 @@
 #under_slider {
 box-shadow: none;
 margin-top: 60px;
+background: none;
 }
 #main_container_wrap {
 background: #2AAB95;
 color: white;
 margin-top: 70px;
+background: url(/img/patern.jpg) repeat-x;
 }
 
 #main2_container_wrap {
