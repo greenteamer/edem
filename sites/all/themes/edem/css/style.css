@@ -252,8 +252,8 @@ font-weight: 500;
 
 /* Акции */
 #main0_container_wrap {
-background: url(/img/pattern3.jpg);
-background-size: 24%;
+/*background: url(/img/pattern3.jpg);
+background-size: 24%;*/
 }
 #block-views-akcii-views-block {
 margin-top: 75px;
@@ -366,6 +366,7 @@ height: 325px;
 margin-right: 35px;
 width: 258px;
 box-shadow: 2px 9px 10px #CCCCCC;
+background: white;
 }
 #block-block-2 .col-xs-3.last {
 margin-right: 0px;
@@ -1052,6 +1053,8 @@ header#navbar  {
 
 #under_slider {
 	box-shadow:inset 0px 0px 12px rgba(53, 53, 53, 0.6);
+	background: url(/img/pattern3.jpg);
+background-size: 24%;
 }
 #main_container_wrap {
 	padding-top: 60px;
