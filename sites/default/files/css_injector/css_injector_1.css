@@ -10,7 +10,16 @@ padding-right: 60px;
 width: 400px;
 }
 
-.region.region-sidebar-second {
-border-radius: 3px;
-border: 1px solid #26aab4;
+#node-1 h2{
+border-bottom: 1px solid #26aab4;
+width: 102px;
+display: block;
+margin: 0 0px 20px 433px;
+padding: 5px 15px;
+}
+
+
+.region.region-sidebar-second .view-reviews-front{
+/*border-radius: 3px;
+border: 1px solid #26aab4;*/
 }

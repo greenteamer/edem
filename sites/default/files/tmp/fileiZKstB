@@ -1,0 +1,16 @@
+#header_wrap {
+margin-bottom: 0px;
+}    
+
+#main_container_wrap section.col-sm-9 {
+width: 770px;
+padding-right: 60px;
+}
+#main_container_wrap aside.col-sm-3 {
+width: 400px;
+}
+
+.region.region-sidebar-second .view-reviews-front{
+/*border-radius: 3px;
+border: 1px solid #26aab4;*/
+}
